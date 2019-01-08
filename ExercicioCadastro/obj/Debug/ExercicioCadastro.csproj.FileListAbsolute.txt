@@ -1,0 +1,9 @@
+C:\Users\nlasa\source\repos\ExercicioCadastro\ExercicioCadastro\obj\Debug\ExercicioCadastro.csprojAssemblyReference.cache
+C:\Users\nlasa\source\repos\ExercicioCadastro\ExercicioCadastro\obj\Debug\ExercicioCadastro.csproj.CoreCompileInputs.cache
+C:\Users\nlasa\source\repos\ExercicioCadastro\ExercicioCadastro\bin\Debug\Estrutura.mdf
+C:\Users\nlasa\source\repos\ExercicioCadastro\ExercicioCadastro\bin\Debug\Estrutura_log.ldf
+C:\Users\nlasa\source\repos\ExercicioCadastro\ExercicioCadastro\bin\Debug\ExercicioCadastro.exe.config
+C:\Users\nlasa\source\repos\ExercicioCadastro\ExercicioCadastro\bin\Debug\ExercicioCadastro.exe
+C:\Users\nlasa\source\repos\ExercicioCadastro\ExercicioCadastro\bin\Debug\ExercicioCadastro.pdb
+C:\Users\nlasa\source\repos\ExercicioCadastro\ExercicioCadastro\obj\Debug\ExercicioCadastro.exe
+C:\Users\nlasa\source\repos\ExercicioCadastro\ExercicioCadastro\obj\Debug\ExercicioCadastro.pdb
